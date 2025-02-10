@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![Alpha-Fox logo](http://images.alpha-fox.com/logo/asn_logo_small.jpg "Alpha-Fox logo")
+![Alteran Stargate Network Logo](http://images.alpha-fox.com/logo/asn_logo_small.jpg "Alteran Stargate Network logo")
 
 ## Contents
 
@@ -627,7 +627,7 @@ Below are the typical responses (they may change over time):
 | ```random listing|<1/0>``` | Random dial listing |
 | ```stargate delete``` | Stargate deleting |
 | ```public listen|<1/0>``` | Channel 0 listen |
-| ```shield type|<irisrezzed/shield/disabled>``` | Change shield type |
+| ```shield type|<iris/rezzed/shield/disabled>``` | Change shield type |
 | ```set name|<successful/failed>|reason``` | Name changed |
 | ```set alias|<successful/failed>|reason``` | Alias changed |
 | ```set image url|<successful/failed>|reason``` | Image changed |
