@@ -1,26 +1,44 @@
-When you first set up your Stargate, it generates a unique username and password. Be sure to write these down, as they
-grant access to both the forums and the online interface.
+## **Initial Setup & Login Credentials**
 
-If your username changes in Second Life, your login username will also change, however you may need to have a Stargate
-rezzed out before this change can be detected.
+When you first set up your **Stargate**, it automatically generates a unique **username** and **password**. These
+credentials grant access to the **online interface**, so be sure to save them securely.
 
-## Which username should you use to login
+### **Username Changes in Second Life**
 
-You should use your legacy name, i.e. for [ash.qin](https://my.secondlife.com/ash.qin) you would use "Ash Qin" or
-for [subnova](https://my.secondlife.com/subnova) you would use "Subnova Resident".
+If your **Second Life username** has changed, your **Alpha-Fox login username** will update automatically. However, this
+update may not take effect immediately. You may need to **rez a Stargate** before the system detects the change.
 
-## Obtaining a Stargate
+## **Which Username Should You Use to Log In?**
 
-If you don't have a Stargate yet, you can get one here: [Get a Stargate](https://www.alpha-fox.com/asn/get/)
+You can log in using either of the following:
 
-## How to Reset Your Password
+✅ **Legacy Name** (
+e.g., [Ash Qin](https://my.secondlife.com/ash.qin), [Subnova Resident](https://my.secondlife.com/subnova))  
+✅ **Username** (e.g., [ash.qin](https://my.secondlife.com/ash.qin), [subnova](https://my.secondlife.com/subnova))
 
-In case you forget your password or didn't save it, you can reset it using your Stargate. The gate offers multiple
-functions, including the ability to restart if it crashes or freezes.
+❌ **Display names CANNOT be used**, as they are not unique.
 
-To reset your password, follow these simple steps:
+## **Obtaining a Stargate**
 
-- Rez your Stargate.
-- Enter the following command in chat: **/stargate resetpass**
+If you don't have a Stargate yet, you can get one here:  
+👉 **[Get a Stargate](https://www.alpha-fox.com/asn/get/)**
 
-Executing this command will reset your password, allowing you to log back into the website.
+## **How to Reset Your Password**
+
+If you forget or lose your password, you can **reset it using your Stargate**.
+
+### **Steps to Reset Your Password:**
+
+1. **Rez your Stargate** in Second Life.
+2. Open **local chat** and enter the following command:
+   ```
+   /stargate resetpass
+   ```  
+3. Your password will be **reset**, allowing you to log back into the website.
+
+### **Additional Notes:**
+
+- If you continue experiencing login issues, ensure that your **username is correct** and that your **Stargate is rezzed
+  out and online**.
+- You **cannot** use a Stargate **owned by another user** to reset your password.
+- For additional support, reach out to us on **Discord**.
