@@ -20,9 +20,9 @@
 			<li><a href="#s1.4">1.4 - Custom Sounds</a></li>
 			<li><a href="#s1.5">1.5 - Custom Lights</a></li>
 		</ul>
+
   </li>
 	<li><a href="#s2">Section 2 - Using your Stargate
-
 
 		</a>
 		<ul>
@@ -38,9 +38,9 @@
 				</ul>
 		  </li>
 		</ul>
+
   </li>
 	<li><a href="#s3">Section 3 - Stargate Official Addons
-
 
 		</a>
 		<ul>
@@ -49,15 +49,16 @@
 			<li><a href="#s3.3">3.3 - Address Display</a></li>
 			<li><a href="#s3.4">3.4 - Stargate Control Unit</a></li>
 		</ul>
+
   </li>
 	<li><a href="#s4">Section 4 - Stargate API
-
 
 		</a>
 		<ul>
 			<li><a href="#s4.1">4.1 - Incoming</a></li>
 			<li><a href="#s4.2">4.2 - Outgoing</a></li>
 		</ul>
+
   </li>
 	<li><a href="#s5">Section 5 - Online Interface</a>
 		<ul><li><a href="#s5.1">5.1 - Stargate Information Page</a></li>
@@ -68,25 +69,24 @@
   </li>
 	<li><a href="#s6">Section 6 - Updating your Stargate
 
-
 		</a>
 		<ul>
 			<li><a href="#s6.1">6.1 - Update Policy</a></li>
 			<li><a href="#s6.2">6.2 - Types of Updates</a></li>
 			<li><a href="#s6.3">6.3 - How to Update</a></li>
 		</ul>
+
   </li>
 	<li><a href="#s7">Section 7 - Troubleshooting
-
 
 		</a>
 		<ul>
 			<li><a href="#s7.1">7.1 - Common Issues</a></li>
 			<li><a href="#s7.2">7.2 - Where to Obtain Help</a></li>
 		</ul>
+
   </li>
 	<li><a href="#s8">Section 8 - Information
-
 
 		</a>
 		<ul>
@@ -95,6 +95,7 @@
 			<li><a href="#s8.3">8.3 - Credit</a></li>
 			<li><a href="#s8.4">8.4 - Current Staff</a></li>
 		</ul>
+
   </li>
 </ul>
   </tr>
@@ -138,12 +139,14 @@
 		  <li><em>Iris</em> - This is a simple animated iris. It resembles the iris seen in the <em>SGC</em> in <strong>Stargate: SG-1</strong>.</li>
 		  <li><em>Disabled</em> - This will disable all built-in shields, to allow for possible 3rd-party  shields to be integrated. See <em><a href="#s4.1">Section 4.1</a></em> for more information on using the API to create a 3rd-party shield.</li>
 	</ul>
+
   </li>
 	<li><strong>Listen</strong> - Some people like to use their own relays for dial commands. For this purpose, we implemented a way to turn off the channel-0 listen. Clicking this button will allow you to disable listening on the public-0 channel.
 
 		<ul>
 			<li><strong>NOTE:</strong> The listen on channel 123 will always be active, as a convience to gate users.</li>
 	    </ul>
+
   </li>
 	<li><strong>Output</strong> - Some people like to use their own devices to output what the gate is currently saying. For this purpose, we implemented a way to turn off the channel-0 output. Clicking this button will disable output on the public channel.
 		<ul>
@@ -260,6 +263,7 @@
 			<li><strong>/stargate test incoming</strong> - This simulates an incoming wormhole on your Stargate.</li>
 			<li><strong>/stargate test outgoing</strong> - This simulates an outgoing wormhole on your Stargate.</li>
 		</ul>
+
   </li>
 	<li><strong>Public</strong>
 
@@ -269,6 +273,7 @@
 			<li><strong>/stargate alias - </strong>This returns the alias of the Stargate in question.</li>
 			<li><strong>/stargate help</strong> - Returns a quick help for anybody needing it.</li>
 	  </ul>
+
   </li>
 </ul>
 <p>When your Stargate is active, it has the ability to relay chat (using the <a href="#s4">Stargate API</a>) and region statistics. The chat buffer is limited to 20 messages per 4(ish) seconds.</p>

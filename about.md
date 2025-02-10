@@ -4,7 +4,7 @@
 <p>We are the caretakers of the Alteran Stargate Network, a group founded in 2007 by Zachary Carter in the virtual world of Second Life.
 
 
- <h2>Current Team Members</h2>
+<h2>Current Team Members</h2>
 <h3><a href="https://my.secondlife.com/ash.qin">Ash Qin</a></h3>
  <p><img src="http://images.alpha-fox.com/sl/ash.qin.png" alt="Ash Qin" title="Ash Qin" /></p>
  <p>Steward of the network; sometimes you might get a free upgrade to first class!</p>
