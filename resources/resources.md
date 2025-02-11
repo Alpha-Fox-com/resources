@@ -6,6 +6,7 @@ clickable links. They also look visually better.
 - [Manual](http://www.alpha-fox.com/resources/asn/manual/)
 - [Stargate Standards of Placement](http://www.alpha-fox.com/resources/asn/ssop/)
 - [Changelog](http://www.alpha-fox.com/resources/asn/changelog/)
+- [Statistics](https://www.alpha-fox.com/resources/asn/statistics/)
 
 ## Death System
 
