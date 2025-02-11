@@ -4,6 +4,7 @@ clickable links. They also look visually better.
 ## Alteran Stargates
 
 - [Manual](http://www.alpha-fox.com/resources/asn/manual/)
+- [Stargate Standards of Placement](http://www.alpha-fox.com/resources/asn/ssop/)
 - [Changelog](http://www.alpha-fox.com/resources/asn/changelog/)
 
 ## Death System
