@@ -14,25 +14,25 @@ In our spare time, we also run the largest Stargate Network in the Second Life®
 We draw our team members from many different fields of expertise, ensuring a full range of skills available for anything
 we do.
 
-![Zachary Carter](http://images.alpha-fox.com/sl/zachary-carter.jpg "Zachary Carter")
+![Zachary Carter](https://images.alpha-fox.com/sl/zachary-carter.jpg "Zachary Carter")
 
 The founder of Alpha-Fox. A skilled programmer that is experienced with both the Linden Scripting Language and PHP /
 MySQL. Joined Second Life in mid-2005.
 
-![Lex Mars](http://images.alpha-fox.com/sl/lex-mars.jpg "Lex Mars")
+![Lex Mars](https://images.alpha-fox.com/sl/lex-mars.jpg "Lex Mars")
 
 A skilled texture artist, modeler, and programmer. Works with dynamics, movement, and math in LSL. Joined Second Life in
 early 2004.
 
-![Wolfie Waves](http://images.alpha-fox.com/sl/wolfie-waves.jpg "Wolfie Waves")
+![Wolfie Waves](https://images.alpha-fox.com/sl/wolfie-waves.jpg "Wolfie Waves")
 
 QA tester for the Second Life Stargate Network, Alteran Stargate Network. Joined Second Life in early 2004.
 
-![Peter Lameth](http://images.alpha-fox.com/sl/peter-lameth.jpg "Peter Lameth")
+![Peter Lameth](https://images.alpha-fox.com/sl/peter-lameth.jpg "Peter Lameth")
 
 Support head for the Alteran Stargate Network. Joined Second Life in late 2005.
 
-![Ash Qin](http://images.alpha-fox.com/sl/ash-qin.jpg "Ash Qin")
+![Ash Qin](https://images.alpha-fox.com/sl/ash-qin.jpg "Ash Qin")
 
 Helps Peter Lameth manage support and assists with encryption of communication systems. Joined Second Life in late 2005.
 
@@ -55,9 +55,9 @@ collaboration with the following organizations:
 - **Alpha-Fox Virtual Interface** - A replacement service to the failing XML-RPC interface on the grid. It allows
   verifiable communication between the outside world and objects within the grid itself. It also provides a method of
   sending out regular e-mails in-world, as well as sending instant-messages to avatars on the grid. You can find more
-  information about this service by [clicking here](http://www.alpha-fox.com/vi/).
+  information about this service by [clicking here](https://www.alpha-fox.com/vi/).
 - **Alteran Stargate Network** - A completely free Stargate Network that has been in development since late 2005. You
-  can find more information about this network by [clicking here](http://www.alpha-fox.com/asn/).
+  can find more information about this network by [clicking here](https://www.alpha-fox.com/asn/).
 
 ## Product Listings
 

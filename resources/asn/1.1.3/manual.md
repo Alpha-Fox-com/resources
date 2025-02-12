@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![Alteran Stargate Network Logo](http://images.alpha-fox.com/logo/asn_logo_small.jpg "Alteran Stargate Network logo")
+![Alteran Stargate Network Logo](https://images.alpha-fox.com/logo/asn_logo_small.jpg "Alteran Stargate Network logo")
 
 ## Contents
 
@@ -52,7 +52,7 @@
 
 *In order to receive the latest updates and other important information, be sure that you join
 the **Alteran Stargate Network** group. You can also access the forums
-at [http://www.alpha-fox.com/community/](http://www.alpha-fox.com/community/).*
+at [https://www.alpha-fox.com/community/](https://www.alpha-fox.com/community/).*
 
 ---
 
@@ -263,7 +263,7 @@ All networks can be replaced by shorter “prefixes”:
 | *Milkyway*  | `milkyway` or `mw` |
 
 To dial a gate with a Dial Home Device, you must have the glyph address of the target Stargate (listed on our website
-at [http://www.alpha-fox.com/asn/](http://www.alpha-fox.com/asn/)). Or, you can use the glyph display included with the
+at [https://www.alpha-fox.com/asn/](https://www.alpha-fox.com/asn/)). Or, you can use the glyph display included with the
 Stargate.
 
 [Back to Top](#top)
@@ -381,19 +381,19 @@ address). On a standard Milkyway DHD, there are 38 symbols (1-38) plus the big o
 
 Below is the Milkyway glyph layout (0-38). *(Images shown in a grid; each number is the glyph index.)*
 
-| ![Glyph 0](http://images.alpha-fox.com/asn/glyphs/milkyway/0.gif) **0** | ![Glyph 1](http://images.alpha-fox.com/asn/glyphs/milkyway/1.gif) **1** | ![Glyph 2](http://images.alpha-fox.com/asn/glyphs/milkyway/2.gif) **2** | ![Glyph 3](http://images.alpha-fox.com/asn/glyphs/milkyway/3.gif) **3** | ![Glyph 4](http://images.alpha-fox.com/asn/glyphs/milkyway/4.gif) **4** | ![Glyph 5](http://images.alpha-fox.com/asn/glyphs/milkyway/5.gif) **5** | ![Glyph 6](http://images.alpha-fox.com/asn/glyphs/milkyway/6.gif) **6** | ![Glyph 7](http://images.alpha-fox.com/asn/glyphs/milkyway/7.gif) **7** | ![Glyph 8](http://images.alpha-fox.com/asn/glyphs/milkyway/8.gif) **8** |
+| ![Glyph 0](https://images.alpha-fox.com/asn/glyphs/milkyway/0.gif) **0** | ![Glyph 1](https://images.alpha-fox.com/asn/glyphs/milkyway/1.gif) **1** | ![Glyph 2](https://images.alpha-fox.com/asn/glyphs/milkyway/2.gif) **2** | ![Glyph 3](https://images.alpha-fox.com/asn/glyphs/milkyway/3.gif) **3** | ![Glyph 4](https://images.alpha-fox.com/asn/glyphs/milkyway/4.gif) **4** | ![Glyph 5](https://images.alpha-fox.com/asn/glyphs/milkyway/5.gif) **5** | ![Glyph 6](https://images.alpha-fox.com/asn/glyphs/milkyway/6.gif) **6** | ![Glyph 7](https://images.alpha-fox.com/asn/glyphs/milkyway/7.gif) **7** | ![Glyph 8](https://images.alpha-fox.com/asn/glyphs/milkyway/8.gif) **8** |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 
-| ![Glyph 9](http://images.alpha-fox.com/asn/glyphs/milkyway/9.gif) **9** | ![Glyph 10](http://images.alpha-fox.com/asn/glyphs/milkyway/10.gif) **10** | ![Glyph 11](http://images.alpha-fox.com/asn/glyphs/milkyway/11.gif) **11** | ![Glyph 12](http://images.alpha-fox.com/asn/glyphs/milkyway/12.gif) **12** | ![Glyph 13](http://images.alpha-fox.com/asn/glyphs/milkyway/13.gif) **13** | ![Glyph 14](http://images.alpha-fox.com/asn/glyphs/milkyway/14.gif) **14** | ![Glyph 15](http://images.alpha-fox.com/asn/glyphs/milkyway/15.gif) **15** | ![Glyph 16](http://images.alpha-fox.com/asn/glyphs/milkyway/16.gif) **16** | ![Glyph 17](http://images.alpha-fox.com/asn/glyphs/milkyway/17.gif) **17** |
+| ![Glyph 9](https://images.alpha-fox.com/asn/glyphs/milkyway/9.gif) **9** | ![Glyph 10](https://images.alpha-fox.com/asn/glyphs/milkyway/10.gif) **10** | ![Glyph 11](https://images.alpha-fox.com/asn/glyphs/milkyway/11.gif) **11** | ![Glyph 12](https://images.alpha-fox.com/asn/glyphs/milkyway/12.gif) **12** | ![Glyph 13](https://images.alpha-fox.com/asn/glyphs/milkyway/13.gif) **13** | ![Glyph 14](https://images.alpha-fox.com/asn/glyphs/milkyway/14.gif) **14** | ![Glyph 15](https://images.alpha-fox.com/asn/glyphs/milkyway/15.gif) **15** | ![Glyph 16](https://images.alpha-fox.com/asn/glyphs/milkyway/16.gif) **16** | ![Glyph 17](https://images.alpha-fox.com/asn/glyphs/milkyway/17.gif) **17** |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
-| ![Glyph 18](http://images.alpha-fox.com/asn/glyphs/milkyway/18.gif) **18** | ![Glyph 19](http://images.alpha-fox.com/asn/glyphs/milkyway/19.gif) **19** | ![Glyph 20](http://images.alpha-fox.com/asn/glyphs/milkyway/20.gif) **20** | ![Glyph 21](http://images.alpha-fox.com/asn/glyphs/milkyway/21.gif) **21** | ![Glyph 22](http://images.alpha-fox.com/asn/glyphs/milkyway/22.gif) **22** | ![Glyph 23](http://images.alpha-fox.com/asn/glyphs/milkyway/23.gif) **23** | ![Glyph 24](http://images.alpha-fox.com/asn/glyphs/milkyway/24.gif) **24** | ![Glyph 25](http://images.alpha-fox.com/asn/glyphs/milkyway/25.gif) **25** | ![Glyph 26](http://images.alpha-fox.com/asn/glyphs/milkyway/26.gif) **26** |
+| ![Glyph 18](https://images.alpha-fox.com/asn/glyphs/milkyway/18.gif) **18** | ![Glyph 19](https://images.alpha-fox.com/asn/glyphs/milkyway/19.gif) **19** | ![Glyph 20](https://images.alpha-fox.com/asn/glyphs/milkyway/20.gif) **20** | ![Glyph 21](https://images.alpha-fox.com/asn/glyphs/milkyway/21.gif) **21** | ![Glyph 22](https://images.alpha-fox.com/asn/glyphs/milkyway/22.gif) **22** | ![Glyph 23](https://images.alpha-fox.com/asn/glyphs/milkyway/23.gif) **23** | ![Glyph 24](https://images.alpha-fox.com/asn/glyphs/milkyway/24.gif) **24** | ![Glyph 25](https://images.alpha-fox.com/asn/glyphs/milkyway/25.gif) **25** | ![Glyph 26](https://images.alpha-fox.com/asn/glyphs/milkyway/26.gif) **26** |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
-| ![Glyph 27](http://images.alpha-fox.com/asn/glyphs/milkyway/27.gif) **27** | ![Glyph 28](http://images.alpha-fox.com/asn/glyphs/milkyway/28.gif) **28** | ![Glyph 29](http://images.alpha-fox.com/asn/glyphs/milkyway/29.gif) **29** | ![Glyph 30](http://images.alpha-fox.com/asn/glyphs/milkyway/30.gif) **30** | ![Glyph 31](http://images.alpha-fox.com/asn/glyphs/milkyway/31.gif) **31** | ![Glyph 32](http://images.alpha-fox.com/asn/glyphs/milkyway/32.gif) **32** | ![Glyph 33](http://images.alpha-fox.com/asn/glyphs/milkyway/33.gif) **33** | ![Glyph 34](http://images.alpha-fox.com/asn/glyphs/milkyway/34.gif) **34** | ![Glyph 35](http://images.alpha-fox.com/asn/glyphs/milkyway/35.gif) **35** |
+| ![Glyph 27](https://images.alpha-fox.com/asn/glyphs/milkyway/27.gif) **27** | ![Glyph 28](https://images.alpha-fox.com/asn/glyphs/milkyway/28.gif) **28** | ![Glyph 29](https://images.alpha-fox.com/asn/glyphs/milkyway/29.gif) **29** | ![Glyph 30](https://images.alpha-fox.com/asn/glyphs/milkyway/30.gif) **30** | ![Glyph 31](https://images.alpha-fox.com/asn/glyphs/milkyway/31.gif) **31** | ![Glyph 32](https://images.alpha-fox.com/asn/glyphs/milkyway/32.gif) **32** | ![Glyph 33](https://images.alpha-fox.com/asn/glyphs/milkyway/33.gif) **33** | ![Glyph 34](https://images.alpha-fox.com/asn/glyphs/milkyway/34.gif) **34** | ![Glyph 35](https://images.alpha-fox.com/asn/glyphs/milkyway/35.gif) **35** |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
-| ![Glyph 36](http://images.alpha-fox.com/asn/glyphs/milkyway/36.gif) **36** | ![Glyph 37](http://images.alpha-fox.com/asn/glyphs/milkyway/37.gif) **37** | ![Glyph 38](http://images.alpha-fox.com/asn/glyphs/milkyway/38.gif) **38** |
+| ![Glyph 36](https://images.alpha-fox.com/asn/glyphs/milkyway/36.gif) **36** | ![Glyph 37](https://images.alpha-fox.com/asn/glyphs/milkyway/37.gif) **37** | ![Glyph 38](https://images.alpha-fox.com/asn/glyphs/milkyway/38.gif) **38** |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
 **Pegasus Stargates** have 36 glyphs. To keep the DHD symmetrical, it has 36 buttons, meaning even the point of origin (
@@ -401,16 +401,16 @@ glyph 0) is a button. So you must press glyph 0 before pressing the big blue cen
 
 Pegasus glyph layout (0-35). *(Again, images in a grid; each number is the index.)*
 
-| ![Glyph 0](http://images.alpha-fox.com/asn/glyphs/pegasus/0.gif) **0** | ![Glyph 1](http://images.alpha-fox.com/asn/glyphs/pegasus/1.gif) **1** | ![Glyph 2](http://images.alpha-fox.com/asn/glyphs/pegasus/2.gif) **2** | ![Glyph 3](http://images.alpha-fox.com/asn/glyphs/pegasus/3.gif) **3** | ![Glyph 4](http://images.alpha-fox.com/asn/glyphs/pegasus/4.gif) **4** | ![Glyph 5](http://images.alpha-fox.com/asn/glyphs/pegasus/5.gif) **5** | ![Glyph 6](http://images.alpha-fox.com/asn/glyphs/pegasus/6.gif) **6** | ![Glyph 7](http://images.alpha-fox.com/asn/glyphs/pegasus/7.gif) **7** | ![Glyph 8](http://images.alpha-fox.com/asn/glyphs/pegasus/8.gif) **8** |
+| ![Glyph 0](https://images.alpha-fox.com/asn/glyphs/pegasus/0.gif) **0** | ![Glyph 1](https://images.alpha-fox.com/asn/glyphs/pegasus/1.gif) **1** | ![Glyph 2](https://images.alpha-fox.com/asn/glyphs/pegasus/2.gif) **2** | ![Glyph 3](https://images.alpha-fox.com/asn/glyphs/pegasus/3.gif) **3** | ![Glyph 4](https://images.alpha-fox.com/asn/glyphs/pegasus/4.gif) **4** | ![Glyph 5](https://images.alpha-fox.com/asn/glyphs/pegasus/5.gif) **5** | ![Glyph 6](https://images.alpha-fox.com/asn/glyphs/pegasus/6.gif) **6** | ![Glyph 7](https://images.alpha-fox.com/asn/glyphs/pegasus/7.gif) **7** | ![Glyph 8](https://images.alpha-fox.com/asn/glyphs/pegasus/8.gif) **8** |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 
-| ![Glyph 9](http://images.alpha-fox.com/asn/glyphs/pegasus/9.gif) **9** | ![Glyph 10](http://images.alpha-fox.com/asn/glyphs/pegasus/10.gif) **10** | ![Glyph 11](http://images.alpha-fox.com/asn/glyphs/pegasus/11.gif) **11** | ![Glyph 12](http://images.alpha-fox.com/asn/glyphs/pegasus/12.gif) **12** | ![Glyph 13](http://images.alpha-fox.com/asn/glyphs/pegasus/13.gif) **13** | ![Glyph 14](http://images.alpha-fox.com/asn/glyphs/pegasus/14.gif) **14** | ![Glyph 15](http://images.alpha-fox.com/asn/glyphs/pegasus/15.gif) **15** | ![Glyph 16](http://images.alpha-fox.com/asn/glyphs/pegasus/16.gif) **16** | ![Glyph 17](http://images.alpha-fox.com/asn/glyphs/pegasus/17.gif) **17** |
+| ![Glyph 9](https://images.alpha-fox.com/asn/glyphs/pegasus/9.gif) **9** | ![Glyph 10](https://images.alpha-fox.com/asn/glyphs/pegasus/10.gif) **10** | ![Glyph 11](https://images.alpha-fox.com/asn/glyphs/pegasus/11.gif) **11** | ![Glyph 12](https://images.alpha-fox.com/asn/glyphs/pegasus/12.gif) **12** | ![Glyph 13](https://images.alpha-fox.com/asn/glyphs/pegasus/13.gif) **13** | ![Glyph 14](https://images.alpha-fox.com/asn/glyphs/pegasus/14.gif) **14** | ![Glyph 15](https://images.alpha-fox.com/asn/glyphs/pegasus/15.gif) **15** | ![Glyph 16](https://images.alpha-fox.com/asn/glyphs/pegasus/16.gif) **16** | ![Glyph 17](https://images.alpha-fox.com/asn/glyphs/pegasus/17.gif) **17** |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 
-| ![Glyph 18](http://images.alpha-fox.com/asn/glyphs/pegasus/18.gif) **18** | ![Glyph 19](http://images.alpha-fox.com/asn/glyphs/pegasus/19.gif) **19** | ![Glyph 20](http://images.alpha-fox.com/asn/glyphs/pegasus/20.gif) **20** | ![Glyph 21](http://images.alpha-fox.com/asn/glyphs/pegasus/21.gif) **21** | ![Glyph 22](http://images.alpha-fox.com/asn/glyphs/pegasus/22.gif) **22** | ![Glyph 23](http://images.alpha-fox.com/asn/glyphs/pegasus/23.gif) **23** | ![Glyph 24](http://images.alpha-fox.com/asn/glyphs/pegasus/24.gif) **24** | ![Glyph 25](http://images.alpha-fox.com/asn/glyphs/pegasus/25.gif) **25** | ![Glyph 26](http://images.alpha-fox.com/asn/glyphs/pegasus/26.gif) **26** |
+| ![Glyph 18](https://images.alpha-fox.com/asn/glyphs/pegasus/18.gif) **18** | ![Glyph 19](https://images.alpha-fox.com/asn/glyphs/pegasus/19.gif) **19** | ![Glyph 20](https://images.alpha-fox.com/asn/glyphs/pegasus/20.gif) **20** | ![Glyph 21](https://images.alpha-fox.com/asn/glyphs/pegasus/21.gif) **21** | ![Glyph 22](https://images.alpha-fox.com/asn/glyphs/pegasus/22.gif) **22** | ![Glyph 23](https://images.alpha-fox.com/asn/glyphs/pegasus/23.gif) **23** | ![Glyph 24](https://images.alpha-fox.com/asn/glyphs/pegasus/24.gif) **24** | ![Glyph 25](https://images.alpha-fox.com/asn/glyphs/pegasus/25.gif) **25** | ![Glyph 26](https://images.alpha-fox.com/asn/glyphs/pegasus/26.gif) **26** |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 
-| ![Glyph 27](http://images.alpha-fox.com/asn/glyphs/pegasus/27.gif) **27** | ![Glyph 28](http://images.alpha-fox.com/asn/glyphs/pegasus/28.gif) **28** | ![Glyph 29](http://images.alpha-fox.com/asn/glyphs/pegasus/29.gif) **29** | ![Glyph 30](http://images.alpha-fox.com/asn/glyphs/pegasus/30.gif) **30** | ![Glyph 31](http://images.alpha-fox.com/asn/glyphs/pegasus/31.gif) **31** | ![Glyph 32](http://images.alpha-fox.com/asn/glyphs/pegasus/32.gif) **32** | ![Glyph 33](http://images.alpha-fox.com/asn/glyphs/pegasus/33.gif) **33** | ![Glyph 34](http://images.alpha-fox.com/asn/glyphs/pegasus/34.gif) **34** | ![Glyph 35](http://images.alpha-fox.com/asn/glyphs/pegasus/35.gif) **35** |
+| ![Glyph 27](https://images.alpha-fox.com/asn/glyphs/pegasus/27.gif) **27** | ![Glyph 28](https://images.alpha-fox.com/asn/glyphs/pegasus/28.gif) **28** | ![Glyph 29](https://images.alpha-fox.com/asn/glyphs/pegasus/29.gif) **29** | ![Glyph 30](https://images.alpha-fox.com/asn/glyphs/pegasus/30.gif) **30** | ![Glyph 31](https://images.alpha-fox.com/asn/glyphs/pegasus/31.gif) **31** | ![Glyph 32](https://images.alpha-fox.com/asn/glyphs/pegasus/32.gif) **32** | ![Glyph 33](https://images.alpha-fox.com/asn/glyphs/pegasus/33.gif) **33** | ![Glyph 34](https://images.alpha-fox.com/asn/glyphs/pegasus/34.gif) **34** | ![Glyph 35](https://images.alpha-fox.com/asn/glyphs/pegasus/35.gif) **35** |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 
 Address assignment is handled by *Andromeda* on the [Subnova Network](http://www.subnova.com/) and can take about **1
@@ -419,7 +419,7 @@ region is addressable by glyph. You can still place more gates in the same regio
 address—only by *name* or *alias*.
 
 You can apply for an admin-assigned "forward address" if you want a canonical address from the show, for instance. To do
-this, submit a request in the [Help Desk](http://www.alpha-fox.com/support/tickets/). Include your gate location and
+this, submit a request in the [Help Desk](https://www.alpha-fox.com/support/tickets/). Include your gate location and
 desired address.
 
 #### 2.5.3 - Failsafes / Limitations
@@ -666,7 +666,7 @@ Below are the typical responses (they may change over time):
 
 <a id="section-5---online-interface"></a>
 
-Alteran Stargates have an online interface at [http://www.alpha-fox.com/asn/](http://www.alpha-fox.com/asn/). You can
+Alteran Stargates have an online interface at [https://www.alpha-fox.com/asn/](https://www.alpha-fox.com/asn/). You can
 view, customize, and control your Stargates in one place. You’ll need to log in with your Second Life avatar name and
 the password the Stargate gave you on first rez.
 
@@ -744,11 +744,11 @@ We also provide a way to show a “profile” of your Stargates in your Second L
 `First_Last` with your SL name):
 
 ```
-http://www.alpha-fox.com/asn/profile/First_Last/
+https://www.alpha-fox.com/asn/profile/First_Last/
 ```
 
 For example:  
-`http://www.alpha-fox.com/asn/profile/Zachary_Carter/`
+`https://www.alpha-fox.com/asn/profile/Zachary_Carter/`
 
 [Back to Top](#top)
 
@@ -833,12 +833,12 @@ it.
 
 **Q:** Can you automatically update our Stargates? Do they self-update?  
 **A:** We have a method for pushing updates, but it’s not feasible for us to update all Stargates manually. You must
-update your own. Get the latest release at [http://www.alpha-fox.com/asn/get/](http://www.alpha-fox.com/asn/get/).
+update your own. Get the latest release at [https://www.alpha-fox.com/asn/get/](https://www.alpha-fox.com/asn/get/).
 
 ---
 
 **Q:** Where can I get a Stargate?  
-**A:** [http://www.alpha-fox.com/asn/get/](http://www.alpha-fox.com/asn/get/).
+**A:** [https://www.alpha-fox.com/asn/get/](https://www.alpha-fox.com/asn/get/).
 
 ---
 
@@ -850,16 +850,16 @@ update your own. Get the latest release at [http://www.alpha-fox.com/asn/get/](h
 **Q:** Where can I get a DHD or other Stargate addons?  
 **A:** Try [OS Labs](http://www.oslabs.info/) or XStreet SL/Apez searching for “stargate.” We do not officially support
 third-party addons beyond those in our package. You can also check
-our [Script Library forum](http://www.alpha-fox.com/community/forum.php?id=8).
+our [Script Library forum](https://www.alpha-fox.com/community/forum.php?id=8).
 
 ---
 
 **Q:** When is feature *xyz* coming, or bug *abc* going to be fixed?  
 **A:** Report features/bugs in our forums. We’ll post updates on them there.
 
-- Bug Reports: [http://www.alpha-fox.com/community/forum.php?id=7](http://www.alpha-fox.com/community/forum.php?id=7)
+- Bug Reports: [https://www.alpha-fox.com/community/forum.php?id=7](https://www.alpha-fox.com/community/forum.php?id=7)
 - Feature
-  Requests: [http://www.alpha-fox.com/community/forum.php?id=5](http://www.alpha-fox.com/community/forum.php?id=5)
+  Requests: [https://www.alpha-fox.com/community/forum.php?id=5](https://www.alpha-fox.com/community/forum.php?id=5)
 
 [Back to Top](#top)
 
@@ -873,10 +873,10 @@ our [Script Library forum](http://www.alpha-fox.com/community/forum.php?id=8).
 2. **Ask in the Alteran Stargate Network group** in-world.
 3. **Read the Forums** to see if the issue is already answered.
 4. **Post** in the forums if you don’t see your issue.
-5. **File a [support ticket](http://www.alpha-fox.com/support/tickets/)** — we aim to respond quickly.
+5. **File a [support ticket](https://www.alpha-fox.com/support/tickets/)** — we aim to respond quickly.
 6. If all else fails, contact an [administrator or staff](#84---current-staff) of the Alteran Stargate Network.
 
-See also: [http://www.alpha-fox.com/support/](http://www.alpha-fox.com/support/)
+See also: [https://www.alpha-fox.com/support/](https://www.alpha-fox.com/support/)
 
 [Back to Top](#top)
 
@@ -968,6 +968,6 @@ The Alteran Stargate Network is managed by a diverse team:
 
 **Zachary Carter**  
 *Copyright 2008 Alteran Stargate Network*  
-[http://www.alpha-fox.com/asn/](http://www.alpha-fox.com/asn/)
+[https://www.alpha-fox.com/asn/](https://www.alpha-fox.com/asn/)
 
 This manual was last updated on 15 November 2008.

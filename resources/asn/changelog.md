@@ -161,7 +161,7 @@ forums for final bug fix.**
 - **Added *gate statistics|||* API response. Contains basic statistics about your Stargate's activity.**
 - **Added *gate statistics* API response. Allows you to get basic statistics about your Stargate's activity.**
 - Removed *Bug Report* button from the menu. People wishing to submit bug reports can use the forums
-  at [http://www.alpha-fox.com/forums/](http://www.alpha-fox.com/forums/).
+  at [https://www.alpha-fox.com/forums/](https://www.alpha-fox.com/forums/).
 - Updated *Stargate Control Units* to *1.3*. Added the ability to change ring style to the *milkyway* version, as well
   as adding the ability to turn on / off stargate *verbal output*. The unit can also turn off the internal Stargate
   listen and route all listens through the unit itself (useful for large gate rooms).

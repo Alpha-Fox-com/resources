@@ -130,7 +130,7 @@ special rules. Just be sure to communicate these differences to visitors through
 ## Montioring & Reporting
 
 - You can report a gate directly by clicking on it.
-- You can find the gate using the [ASN Database ](http://www.alpha-fox.com/asn/db/) and report it through that
+- You can find the gate using the [ASN Database ](https://www.alpha-fox.com/asn/db/) and report it through that
   interface.
 - You can view tickets against your gates or tickets you've opened against other gates via
-  the [SSoP support portal](http://www.alpha-fox.com/support/ssop/)
+  the [SSoP support portal](https://www.alpha-fox.com/support/ssop/)
