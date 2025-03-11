@@ -857,7 +857,7 @@ our Script Library channel on the [Discord](https://discord.gg/d4fkbpWsGT) > #as
 **Q:** When is feature *xyz* coming, or bug *abc* going to be fixed?  
 **A:** Report features/bugs in our forums. We’ll post updates on them there.
 
-- Bug reports & feature requests: [https://discord.gg/d4fkbpWsGT](https://discord.gg/d4fkbpWsGT) > #asn-feedback
+- Bug reports & feature requests: [Discord](https://discord.gg/d4fkbpWsGT) > #asn-feedback
 
 [Back to Top](#top)
 
