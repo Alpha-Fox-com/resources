@@ -52,7 +52,7 @@
 
 *In order to receive the latest updates and other important information, be sure that you join
 the **Alteran Stargate Network** group. You can also access the forums
-at [https://www.alpha-fox.com/community/](https://www.alpha-fox.com/community/).*
+at [https://discord.gg/d4fkbpWsGT](https://discord.gg/d4fkbpWsGT).*
 
 ---
 
@@ -850,16 +850,14 @@ update your own. Get the latest release at [https://www.alpha-fox.com/asn/get/](
 **Q:** Where can I get a DHD or other Stargate addons?  
 **A:** Try [OS Labs](http://www.oslabs.info/) or XStreet SL/Apez searching for “stargate.” We do not officially support
 third-party addons beyond those in our package. You can also check
-our [Script Library forum](https://www.alpha-fox.com/community/forum.php?id=8).
+our Script Library channel on the [Discord](https://discord.gg/d4fkbpWsGT) > #asn-lsl-library.
 
 ---
 
 **Q:** When is feature *xyz* coming, or bug *abc* going to be fixed?  
 **A:** Report features/bugs in our forums. We’ll post updates on them there.
 
-- Bug Reports: [https://www.alpha-fox.com/community/forum.php?id=7](https://www.alpha-fox.com/community/forum.php?id=7)
-- Feature
-  Requests: [https://www.alpha-fox.com/community/forum.php?id=5](https://www.alpha-fox.com/community/forum.php?id=5)
+- Bug reports & feature requests: [Discord](https://discord.gg/d4fkbpWsGT) > #asn-feedback
 
 [Back to Top](#top)
 
