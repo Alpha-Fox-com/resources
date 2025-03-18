@@ -554,16 +554,16 @@ has no distance limit). *Italic* indicates **private** (owner-only).
 
 | Command                                  | Description                                                                                                                                         |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **`dial\|<1/0>\|<glyph>`**               | Dials a glyph on your Stargate with a spinval of 1 / 0 (whether inner ring spins)                                                                   |
+| **`dial|<1/0>|<glyph>`**                 | Dials a glyph on your Stargate with a spinval of 1 / 0 (whether inner ring spins)                                                                   |
 | **`stargate status`**                    | Returns the status of the Stargate                                                                                                                  |
-| **`send chatter\|<name>\|<msg>\|<1/0>`** | Sends chatter through an active gate. The variable at the end will let you keep the wormhole open if set to 1                                        |
+| **`send chatter|<name>|<msg>|<1/0>`**    | Sends chatter through an active gate. The variable at the end will let you keep the wormhole open if set to 1                                        |
 | **`stargate version`**                   | Returns the version of the Stargate                                                                                                                 |
 | **`stargate address`**                   | Returns *native and cross-network* addresses                                                                                                      |
 | **`stargate name`**                      | Returns the name of the Stargate                                                                                                                    |
 | **`stargate alias`**                     | Returns the alias of the Stargate                                                                                                                   |
 | **`stargate probe`**                     | Probes the target Stargate (outgoing only)                                                                                                          |
-| **`lookup\|<net>\|<kw>`**                | Looks up a Stargate. You can replace network with * for wildcard                                                                                    |
-| **`directdial\|<net>\|<kw>\|<2/1/0>`**   | Dials a Stargate using direct dial with a spinval of 1 / 0 (whether inner ring spins - when you set it to "2" it does a forced wormhole). You can replace network with * for wildcard. |
+| **`lookup|<net>|<kw>`**                  | Looks up a Stargate. You can replace network with * for wildcard                                                                                    |
+| **`directdial|<net>|<kw>|<2/1/0>`**      | Dials a Stargate using direct dial with a spinval of 1 / 0 (whether inner ring spins - when you set it to "2" it does a forced wormhole). You can replace network with * for wildcard. |
 | **`stargate emp`**                       | Sends a pulse through the wormhole extending the open time for 30 seconds                                                                           |
 | **`interference`**                       | Causes the gate to flicker and make a zap noise                                                                                                     |
 | ```raise shield```                       | Raises the shield on your gate                                                                                                                      |
@@ -578,13 +578,13 @@ has no distance limit). *Italic* indicates **private** (owner-only).
 | ```test stargate```                      | Tests the chevron lamps on your gate.                                                                                                               |
 | ```test stargate outgoing```             | Simulates an outgoing wormhole                                                                                                                      |
 | ```test stargate incoming```             | Simulates an incoming wormhole                                                                                                                      |
-| ```set name\|<name>```                   | Sets the name of your gate                                                                                                                          |
-| ```set alias\|<alias>```                 | Sets the alias of your gate                                                                                                                         |
-| ```set image url\|<url>```               | Sets the image URL of your gate                                                                                                                     |
-| ```ring speed\|<speed>```                | Changes the inner ring speed on Milkyway gates. Needs to be sent at the beginning of every dial.                                                     |
-| ```public listen\|<1/0>```               | Turns on / off the listen on channel 0 for commands.                                                                                              |
-| ```public output\|<1/0>```               | Turns on / off the verbose output of the Stargate                                                                                                 |
-| ```random list\|<1/0>```                 | Turns on / off random dial listing                                                                                                                  |
+| ```set name|<name>```                    | Sets the name of your gate                                                                                                                          |
+| ```set alias|<alias>```                  | Sets the alias of your gate                                                                                                                         |
+| ```set image url|<url>```                | Sets the image URL of your gate                                                                                                                     |
+| ```ring speed|<speed>```                 | Changes the inner ring speed on Milkyway gates. Needs to be sent at the beginning of every dial.                                                     |
+| ```public listen|<1/0>```                | Turns on / off the listen on channel 0 for commands.                                                                                              |
+| ```public output|<1/0>```                | Turns on / off the verbose output of the Stargate                                                                                                 |
+| ```random list|<1/0>```                  | Turns on / off random dial listing                                                                                                                  |
 
 <a hidden="// @formatter:on" ></a>
 
@@ -608,53 +608,53 @@ Below are the typical responses (they may change over time):
 | Command | Description |
 |---------|-------------|
 | ```stargate reset```                                                                                           | Gate has been reset |
-| ```status\|<outgoing/incoming/idle/offline/dialing>```                                                         | Gate status has changed. |
-| ```shield\|<0/1>```                                                                                            | Gate shield has changed |
+| ```status|<outgoing/incoming/idle/offline/dialing>```                                                          | Gate status has changed. |
+| ```shield|<0/1>```                                                                                             | Gate shield has changed |
 | ```ping```                                                                                                     | Gate pinged to the server |
-| ```dial lookup\|<succ/fail>\|<addr>\|<spin>\|<region>\|<pos>\|<nw>\|<name>\|<alias>\|<owner>\|<sgc id>```      | Return from a directdial API command |
-| ```search lookup\|<succ/fail>\|<native>\|<cross>\|<region>\|<pos>\|<nw>\|<name>\|<alias>\|<owner>\|<sgc id>``` | Return from a lookup API command |
+| ```dial lookup|<succ/fail>|<addr>|<spin>|<region>|<pos>|<nw>|<name>|<alias>|<owner>|<sgc id>```                | Return from a directdial API command |
+| ```search lookup|<succ/fail>|<native>|<cross>|<region>|<pos>|<nw>|<name>|<alias>|<owner>|<sgc id>```           | Return from a lookup API command |
 | ```chevron <#> encoded```                                                                                      | Chevron has lit up (dhd) |
 | ```chevron <#> engaged```                                                                                      | Chevron has lit up (incoming) |
 | ```chevron <#> locked```                                                                                       | Chevron has lit up (long dial) |
-| ```dial <succ/fail>\|<region>\|<pos>\|<nw>\|<name>\|<alias>\|<owner>\|<sgc id>\|<rot>```                       | Stargate has attempted to lock an address |
+| ```dial <succ/fail>|<region>|<pos>|<nw>|<name>|<alias>|<owner>|<sgc id>|<rot>```                               | Stargate has attempted to lock an address |
 | ```stargate close```                                                                                           | Stargate has shutdown |
 | ```stargate cut```                                                                                             | Stargate has cut power |
-| ```wormhole collision\|<type>\|<uuid>```                                                                       | Collision with the event horizon |
+| ```wormhole collision|<type>|<uuid>```                                                                         | Collision with the event horizon |
 | ```stargate restart```                                                                                         | Gate has restarted |
-| ```incoming wormhole\|<region>\|<pos>\|<owner name>\|<name>\|<alias>\|<address>\|<sgc id>```                   | Incoming wormhole |
-| ```stargate version\|<version>```                                                                              | Gate version output |
-| ```stargate address\|<native>\|<cross>```                                                                      | Gate address output |
-| ```random listing\|<1/0>```                                                                                    | Random dial listing |
+| ```incoming wormhole|<region>|<pos>|<owner name>|<name>|<alias>|<address>|<sgc id>```                          | Incoming wormhole |
+| ```stargate version|<version>```                                                                               | Gate version output |
+| ```stargate address|<native>|<cross>```                                                                        | Gate address output |
+| ```random listing|<1/0>```                                                                                     | Random dial listing |
 | ```stargate delete```                                                                                          | Stargate deleting |
-| ```public listen\|<1/0>```                                                                                     | Channel 0 listen |
-| ```shield type\|<iris/rezzed/shield/disabled>```                                                               | Change shield type |
-| ```set name\|<successful/failed>\|reason```                                                                    | Name changed |
-| ```set alias\|<successful/failed>\|reason```                                                                   | Alias changed |
-| ```set image url\|<successful/failed>\|reason```                                                               | Image changed |
+| ```public listen|<1/0>```                                                                                      | Channel 0 listen |
+| ```shield type|<iris/rezzed/shield/disabled>```                                                                | Change shield type |
+| ```set name|<successful/failed>|reason```                                                                      | Name changed |
+| ```set alias|<successful/failed>|reason```                                                                     | Alias changed |
+| ```set image url|<successful/failed>|reason```                                                                 | Image changed |
 | ```stargate registered```                                                                                      | Gate registered |
 | ```emp pulse sent```                                                                                           | EMP pulse sent |
 | ```invalid api command passed```                                                                               | Invalid command |
-| ```stargate name\|<name>```                                                                                    | Stargate name output |
-| ```stargate alias\|<alias>```                                                                                  | Stargate alias output |
-| ```chatter\|<name>\|<msg>```                                                                                   | Wormhole chatter. Ignore names starting with _. |
-| ```probe\|<succ/fail>\|<fps>\|<time>\|<parcel name>\|<parcel desc>\|<agent count>```                           | Target gate probe |
+| ```stargate name|<name>```                                                                                     | Stargate name output |
+| ```stargate alias|<alias>```                                                                                   | Stargate alias output |
+| ```chatter|<name>|<msg>```                                                                                     | Wormhole chatter. Ignore names starting with _. |
+| ```probe|<succ/fail>|<fps>|<time>|<parcel name>|<parcel desc>|<agent count>```                                 | Target gate probe |
 | ```stargate test```                                                                                            | Chevron lamp test |
 | ```stargate test incoming```                                                                                   | Incoming wormhole simulation |
 | ```stargate test outgoing```                                                                                   | Outgoing wormhole simulation |
 | ```interference```                                                                                             | Experiencing interference |
-| ```wormhole fataility\|<type>\|<uuid>\|<what>```                                                               | The wormhole has killed |
+| ```wormhole fataility|<type>|<uuid>|<what>```                                                                  | The wormhole has killed |
 | ```target shield raised```                                                                                     | Target shield raised |
 | ```target shield lowered```                                                                                    | Target shield lowered |
-| ```destination\|<region>\|<pos>\|<rot>```                                                                      | Wormhole destination changed. "--" is no destination. |
-| ```prompt\|<msg>```                                                                                            | Stargate chat outputs |
-| ```top gates\|<name,name,name>```                                                                              | Top 20 gates by popularity |
-| ```gate statistics\|<inc>\|<out>\|<total>```                                                                   | Basic statistics about the gate |
-| ```target wormhole collision\|<type>\|<uuid>```                                                               | Wormhole collision on the connected Stargate (not yours) |
-| ```http error\|<error>```                                                                                     | An error with the http_response |
-| ```stargate open```                                                                                           | The Stargate has opened |
-| ```clearing buffer```                                                                                         | The buffer of the Stargate is being cleared (all of the scripts being reset) |
-| ```chatter saved```                                                                                           | Chatter has been saved for target gate |
-| ```wormhole extended```                                                                                       | Results from emp command or emp flag on chatter. |
+| ```destination|<region>|<pos>|<rot>```                                                                         | Wormhole destination changed. "--" is no destination. |
+| ```prompt|<msg>```                                                                                             | Stargate chat outputs |
+| ```top gates|<name,name,name>```                                                                               | Top 20 gates by popularity |
+| ```gate statistics|<inc>|<out>|<total>```                                                                      | Basic statistics about the gate |
+| ```target wormhole collision|<type>|<uuid>```                                                                  | Wormhole collision on the connected Stargate (not yours) |
+| ```http error|<error>```                                                                                       | An error with the http_response |
+| ```stargate open```                                                                                            | The Stargate has opened |
+| ```clearing buffer```                                                                                          | The buffer of the Stargate is being cleared (all of the scripts being reset) |
+| ```chatter saved```                                                                                            | Chatter has been saved for target gate |
+| ```wormhole extended```                                                                                        | Results from emp command or emp flag on chatter. |
 
 <a hidden="// @formatter:on" ></a>
 
