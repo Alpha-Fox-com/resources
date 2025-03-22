@@ -58,8 +58,6 @@ This passphrase is easy to remember but hard for attackers to guess due to its l
 
 3. Use this passphrase as your password.
 
-### Implementing Your New Passphrase
+## Reset your password
 
-To update your password using this method:
-
-[Reset your password here.](/resources/account/credentials/)
+You can find more information on how to [reset your password here](/resources/account/credentials/).
