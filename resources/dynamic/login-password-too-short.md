@@ -22,7 +22,7 @@ randomness of the passphrase to create a password that's both secure and easy to
 **Example:**
 
 ```
-correct battery horse battery staple
+correct horse battery staple
 ```
 
 This passphrase is easy to remember but hard for attackers to guess due to its length and randomness.
