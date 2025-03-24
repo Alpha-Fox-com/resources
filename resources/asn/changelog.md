@@ -1,3 +1,5 @@
+## ToC
+
 ## 1.1.3
 
 - Fixed an "extreme load bug" on our servers.

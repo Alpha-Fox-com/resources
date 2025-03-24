@@ -1,4 +1,6 @@
-# Alteran Stargate Network Development
+## ToC
+
+## Alteran Stargate Network Development
 
 In the development and deployment of the Alteran Stargate Network, it has gone through many changes, rewrites, and
 complete restarts. In the end, we are still the same group, with the same goals and the same basic idea: to create a
