@@ -26,13 +26,13 @@ These are for Stargates that meet the following criteria:
 
 * Are not set to offline.
 * Do not have a shield raised.
-* Configured to exist in the Random dialling pool (enabled by default; you can deactivate it in Settings -> Random).
+* Configured to exist in the Random dialling pool (enabled by default; you can deactivate it in Settings → Random).
 
 ### Quick Reference Checklist
 
-- Use: It is possible to use the Stargate to leave.
-- Security: No automatic eject/ban systems within gate range.
+- Use: Use the Stargate to visit and leave (no IDC/GDO).
 - Scripting: Public scripts are enabled close to the gate.
+- Security: No automatic eject/ban systems within gate range.
 - Visibility: The gate is easily spotted from the Telehub or arrival point.
 - Land Access: The parcel is open to the public (not group-only or private).
 - Aerial Placement: A safe landing mechanism is present if the gate is above ground.
@@ -40,7 +40,7 @@ These are for Stargates that meet the following criteria:
 ### Land access
 
 Rule:
-Stargates must be placed on land that is publicly accessible (i.e., not group-only or private).
+Stargates must be placed on a land that is publicly accessible (i.e. not access only land/region).
 
 Exception:
 Stargates can be placed in private no-access regions that have the experience
@@ -53,8 +53,27 @@ Ensures anyone can visit and use the gate, regardless of group affiliation or la
 Implementation Tips:
 
 - Check your parcel's "About Land" → "Access" settings to confirm that public entry is allowed.
-- Check the "Region/Estate" → "Experiences" options to confirm that "Matter stream" is configured if "Allow only residents
-  and groups listed in access tab" is selected in the "Estate tab".
+- Check the "Region/Estate" → "Experiences" options to confirm that "Matter stream" is configured if "Allow only
+  residents
+  and groups listed in the access tab" is selected in the "Estate tab".
+
+### Access Control Systems
+
+Rule:
+When an Access Control System, such as an IDC/GDO system, is enabled, which requires the user to be authorised to visit,
+these Stargates must not appear on the random dial list.
+
+Random can be turned back on after turning off an access control system.
+
+It's strongly suggested that IDC/GDO server developers use the in-world API to set the Stargate to no random when
+enabling the IDC system.
+
+Exception:
+If this is a puzzle that no pre-approved user can resolve, a hint for access must be provided over the radio.
+
+Reason:
+IDC/GDO systems have been leading to negative experiences with using random dials and serve little of a purpose for
+random dialling.
 
 ### Aerial Placement
 
@@ -111,7 +130,7 @@ Implementation Tips:
 - If you cannot enable public scripts for the entire region, consider isolating the gate on a dedicated parcel where
   scripts are permitted.
 
-### Gate Dialing Puzzles
+### Gate Dialling Puzzles
 
 Rule:
 Dialling puzzles or unique interactive mechanisms are allowed but must not be overly hidden or complicated.
@@ -122,6 +141,7 @@ Encourages Stargate play but keeps the gate accessible to casual visitors.
 Implementation Tips:
 
 - Provide in-world hints as to why a Stargate may not behave as intended.
+- For incoming connections, use radio messages to provide information for access.
 
 ### Exceptions for Roleplay
 
